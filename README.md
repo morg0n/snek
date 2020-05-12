@@ -1,2 +1,2 @@
 # snek
-python learning
+py
